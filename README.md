@@ -1,4 +1,10 @@
 # Ollama-AI-Text-Assistant-for-Word
+
+DESARROLLO EN ESPAÑOL.  PERSONALIZA LOS PROMPTS A TU IDIOMA 
+DEVELOPMENT IN SPANISH. CUSTOMIZE THE PROMPTS TO YOUR LANGUAGE
+
+________________________________________
+
 Este código VBA proporciona una interfaz de usuario integrada en Microsoft Word que permite a los usuarios mejorar, extender, reescribir y traducir texto de manera sencilla. Utiliza un modelo de Inteligencia Artificial gestionado por Ollama, alojado en un servidor local, para procesar y transformar el texto seleccionado por el usuario.
 Las principales funcionalidades del código son:
 1.	Mejorar texto: Esta opción toma el texto seleccionado por el usuario y lo envía a Ollama, solicitándole que lo mejore y refine de manera concisa y efectiva, manteniendo la estructura y el estilo originales.
