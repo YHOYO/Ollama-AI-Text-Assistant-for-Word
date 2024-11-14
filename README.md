@@ -1,7 +1,15 @@
 # Ollama-AI-Text-Assistant-for-Word
 
+![image](https://github.com/user-attachments/assets/23f5d074-73ba-4282-8c0f-6c30ef3f422b)
+________________________________________
+
 DESARROLLO EN ESPAÑOL.  PERSONALIZA LOS PROMPTS A TU IDIOMA 
+INSTRUCCIONES EN https://yhoyo.gumroad.com/l/Ollama-AI-Text-Assistant-for-Word
+
+
 DEVELOPMENT IN SPANISH. CUSTOMIZE THE PROMPTS TO YOUR LANGUAGE
+Instructions in https://yhoyo.gumroad.com/l/Ollama-AI-Text-Assistant-for-Word
+
 
 ________________________________________
 
